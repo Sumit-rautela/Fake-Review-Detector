@@ -41,7 +41,7 @@ Credit: Maxwell — thank you for providing the dataset for research purposes. �
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/fake-review-detector.git
+git clone https://github.com//Sumit-rautela/Fake-Review-Detector.git
 cd fake-review-detector
 2️⃣ Create and activate a virtual environment
 bash
